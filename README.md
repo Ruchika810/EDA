@@ -1,6 +1,7 @@
 # Project Title: EDA on Netflix titles
 #Objective
 To explore and analyze the Netflix Titles dataset using Exploratory Data Analysis (EDA) techniques with the goal of uncovering insights into the content distribution, genres, trends over time, and regional diversity. The aim was to understand how Netflix’s content strategy has evolved and what patterns exist in the types of content it offers.
+
 #What I Learned
 Strengthened understanding of working with real-world datasets containing missing and inconsistent values.
 
@@ -13,6 +14,7 @@ Practiced using Pandas, Seaborn, Matplotlib, and Plotly to create compelling and
 Improved interpretation of categorical and multivariate data to find trends in genre, country, content type, and ratings.
 
 Understood how to generate business or product-related questions from an open dataset.
+
 #What I Achieved
 Identified trends such as the increase in original content after 2015 and dominance of movies over TV shows.
 
